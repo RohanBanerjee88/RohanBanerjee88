@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanBanerjee88
 - 👀 I’m interested in Computer Vision and Artificial Intelligence
-- 🌱 I’m currently learning Image Recognition and Processing in C++ and Python
+- 🌱 I’m currently in trying out different projects
 
 <!---
 RohanBanerjee88/RohanBanerjee88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
